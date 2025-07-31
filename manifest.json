@@ -1,0 +1,13 @@
+{
+	"name": "simple gallery",
+	"short_name": "gallery",
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "#ffffff",
+	"description": "lorem ipsum",
+	"icons": [{
+		"src": "icon.png",
+		"sizes": "192x192",
+		"type": "image/png"
+	}]
+}
